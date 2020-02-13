@@ -1,0 +1,232 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01017nam a2200241 a 4500</leader>
+  <controlfield tag="001">MIU01-000007855</controlfield>
+  <controlfield tag="003">MiU</controlfield>
+  <controlfield tag="005">20030415000000.0</controlfield>
+  <controlfield tag="008">880715s1972    nju      b    001|0 eng d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(RLIN)MIUG0581130-B</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(CaOTULAS)159826993</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocm00581130</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">sdr-nwu630609</subfield>
+  </datafield>
+  <datafield tag="038" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="c">MiU</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+    <subfield code="a">DC261.P56</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Pinkney, David H.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The French revolution of 1830 /</subfield>
+    <subfield code="c">by David H. Pinkney.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">[Princeton] N. J. :</subfield>
+    <subfield code="b">Princeton University Press,</subfield>
+    <subfield code="c">1972.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ix, 397 p. ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliography (p. 369-385) and index.</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">This bibliographic record is available under the Creative Commons CC0 public domain dedication. The University of Michigan Libraries, as creator of this bibliographic record, has waived all rights to it worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">France</subfield>
+    <subfield code="x">History</subfield>
+    <subfield code="y">July Revolution, 1830.</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>02035nad a2200409 a 4500</leader>
+  <controlfield tag="001">MIU01-000011124</controlfield>
+  <controlfield tag="003">MiU</controlfield>
+  <controlfield tag="005">20080903133445.0</controlfield>
+  <controlfield tag="006">m    e   d   |||||</controlfield>
+  <controlfield tag="007">cr mnummmmuuuu</controlfield>
+  <controlfield tag="008">880715|1867|||||||     s    |||||||eng|u</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">1-4255-2727-2</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(dli)AAB2140</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(MOA)moaAAB2140</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)ocn227381416</subfield>
+  </datafield>
+  <datafield tag="038" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">EYM</subfield>
+    <subfield code="c">EYM</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+    <subfield code="a">EY2L</subfield>
+  </datafield>
+  <datafield tag="059" ind1=" " ind2=" ">
+    <subfield code="a">NO EXPORT: ALL</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">F12.C7</subfield>
+    <subfield code="b">(INTERNET)</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">F12.C7</subfield>
+    <subfield code="b">B9</subfield>
+  </datafield>
+  <datafield tag="099" ind1=" " ind2=" ">
+    <subfield code="a">See URL for access</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Burt, Henry M.</subfield>
+    <subfield code="q">(Henry Martyn),</subfield>
+    <subfield code="d">1831-1899.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Burt&apos;s illustrated guide of the Connecticut valley</subfield>
+    <subfield code="h">[electronic resource] :</subfield>
+    <subfield code="b">containing descriptions of Mount Holyoke, Mount Mansfield, White Mountains, Lake Memphremagog, Lake Willoughby, Montreal, Quebec, &amp;c. /</subfield>
+    <subfield code="c">by Henry M. Burt.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2=" ">
+    <subfield code="a">Illustrated guide of the Connecticut valley</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Northampton :</subfield>
+    <subfield code="b">New England Publishing Company,</subfield>
+    <subfield code="c">1867.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">281 p. :</subfield>
+    <subfield code="b">ill. ;</subfield>
+    <subfield code="c">19 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" ">
+    <subfield code="a">Making of America</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">This bibliographic record is available under the Creative Commons CC0 public domain dedication. The University of Michigan Libraries, as creator of this bibliographic record, has waived all rights to it worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">SPEC THC: Forms part of the Guidebook Collection.</subfield>
+  </datafield>
+  <datafield tag="538" ind1=" " ind2=" ">
+    <subfield code="a">Mode of access: Internet.</subfield>
+  </datafield>
+  <datafield tag="533" ind1=" " ind2=" ">
+    <subfield code="a">Electronic text and image data.</subfield>
+    <subfield code="b">Ann Arbor, Mich. :</subfield>
+    <subfield code="c">University of Michigan, Digital Library Initiatives,</subfield>
+    <subfield code="d">1996.</subfield>
+    <subfield code="e">Includes both TIFF files and keyword searchable text.</subfield>
+    <subfield code="f">[Making of America]</subfield>
+    <subfield code="n">This volume is made possible by a grant from the Andrew W. Mellon Foundation.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">Connecticut River Valley</subfield>
+    <subfield code="v">Guidebooks</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">New England</subfield>
+    <subfield code="v">Guidebooks.</subfield>
+  </datafield>
+  <datafield tag="651" ind1=" " ind2="0">
+    <subfield code="a">White Mountains (N.H. and Me.)</subfield>
+    <subfield code="v">Guidebooks.</subfield>
+  </datafield>
+  <datafield tag="773" ind1="0" ind2=" ">
+    <subfield code="t">Making of America.</subfield>
+    <subfield code="n">URL: http://moa.umdl.umich.edu/</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="0">
+    <subfield code="u">http://name.umdl.umich.edu/AAB2140</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01304nam a2200289 a 4500</leader>
+  <controlfield tag="001">MIU01-000014632</controlfield>
+  <controlfield tag="003">MiU</controlfield>
+  <controlfield tag="005">20090421085936.0</controlfield>
+  <controlfield tag="006">m        d   |||||</controlfield>
+  <controlfield tag="007">cr bn ---auaua</controlfield>
+  <controlfield tag="008">880715s1967    maua   j      000 0 eng d</controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+    <subfield code="a">67025611</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+    <subfield code="a">(OCoLC)825697</subfield>
+  </datafield>
+  <datafield tag="038" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">MiU</subfield>
+    <subfield code="c">MiU</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">McCord, David Thompson Watson,</subfield>
+    <subfield code="d">1897-1997.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Every time I climb a tree /</subfield>
+    <subfield code="c">by David McCord ; illustrated by Marc Simont.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Boston :</subfield>
+    <subfield code="b">Little, Brown and Co.</subfield>
+    <subfield code="c">c1967</subfield>
+    <subfield code="g">(4th printing)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">[48] p. :</subfield>
+    <subfield code="b">col. ill. ;</subfield>
+    <subfield code="c">26 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" ">
+    <subfield code="a">&quot;Little, Brown reinforced binding&quot;--P. [4] of cover.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" ">
+    <subfield code="a">Twenty-five poems with short lines on such varied subjects as a lost turtle, a fence, the wind, jam, a witch, and bananas and cream.</subfield>
+  </datafield>
+  <datafield tag="588" ind1=" " ind2=" ">
+    <subfield code="a">This bibliographic record is available under the Creative Commons CC0 public domain dedication. The University of Michigan Libraries, as creator of this bibliographic record, has waived all rights to it worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.</subfield>
+  </datafield>
+  <datafield tag="590" ind1=" " ind2=" ">
+    <subfield code="a">In original dust jacket.</subfield>
+  </datafield>
+  <datafield tag="538" ind1=" " ind2=" ">
+    <subfield code="a">Mode of access: Internet.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Children&apos;s poetry, American.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0">
+    <subfield code="a">Poetry.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Simont, Marc.</subfield>
+  </datafield>
+</record>
+</collection>
