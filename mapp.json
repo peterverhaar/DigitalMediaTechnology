@@ -1,3 +1,11 @@
+{
+    "title": {
+        "text": {
+            "headline": "Kranten",
+            "text": "<p>Timeline</p>"
+        }
+    },
+    "events":
 [
     {
         "start_date": {
@@ -4862,3 +4870,5 @@
         }
     }
 ]
+
+}
